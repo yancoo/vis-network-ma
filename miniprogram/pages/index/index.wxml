@@ -1,0 +1,1 @@
+<canvas type="2d" id="relationGraph" style="width: 100%; height: 100%; background: #F0F0F0;" bindtouchstart="onTouchStart" bindtouchmove="onTouchMove" bindtouchend="onTouchEnd" bindtouchcancel="onTouchCancel" />
