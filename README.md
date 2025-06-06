@@ -15,8 +15,8 @@
     ```
     搜索 "crypto" 替换成 "crypto-js"
     ```
-- 编译即可运行，界面展示：
-  ![image](./images/demo.jpg)
+- 编译即可运行，界面展示：  
+  <img src="./images/demo.jpg" style="width: 400px">
 
 # License版权
 
