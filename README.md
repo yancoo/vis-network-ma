@@ -18,7 +18,7 @@
 - 编译即可运行，界面展示  
   <img src="./images/demo.jpg" style="width: 400px">
 - 注意
-  - 开发者工具MacOS上未必支持双指操作，请手机上验证
+  - 开发者工具MacOS上未必支持双指缩放操作，请手机上验证
 
 # License版权
 
